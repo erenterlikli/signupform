@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\bin\Debug\KayıtDefteri.exe.config
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\bin\Debug\KayıtDefteri.exe
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\bin\Debug\KayıtDefteri.pdb
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\obj\Debug\KayıtDefteri.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\obj\Debug\KayıtDefteri.KayıtDefteri.resources
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\obj\Debug\KayıtDefteri.Properties.Resources.resources
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\obj\Debug\KayıtDefteri.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\obj\Debug\KayıtDefteri.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\obj\Debug\KayıtDefteri.exe
+C:\Users\Eren\source\repos\KayıtDefteri\KayıtDefteri\obj\Debug\KayıtDefteri.pdb
